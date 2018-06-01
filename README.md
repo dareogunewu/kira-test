@@ -1,3 +1,5 @@
+How to Use
+
 # Be sure to have python 2 or 3 installed on your computer
 
 Create the list-repo.py file in a folder on your computer and copy its contents in it
