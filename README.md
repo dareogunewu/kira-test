@@ -2,7 +2,7 @@
 
 Be sure to have python 3.6 installed on your computer
 
-Create the list-repo.py file in a folder on your computer and copy the content of the #list-repo.py file to it and save
+Create the list-repo.py file in a folder on your computer and copy the content of the #list-repos.py file to it and save
 
 Open your terminal and run python ./list-repo.py -u <username> --token "<insert token>" where you replace with the username you wish to list the repositories from and token is your GithubApi token
 
